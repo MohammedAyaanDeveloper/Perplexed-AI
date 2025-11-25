@@ -1,0 +1,5 @@
+{
+  "name": "Perplexed AI",
+  "description": "A feature-rich, Perplexity-inspired AI chat application with authentication, history management, and Gemini API integration.",
+  "requestFramePermissions": []
+}
